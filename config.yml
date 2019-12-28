@@ -28,18 +28,48 @@ params:
   ok: '#008000'
   shortDateFormat: '2. Jan — 15:04'
   systems:
-    - category: North Coast
-      name: Gateway
-    - category: East Coast
-      name: Backup Gateway
-    - category: Uncategorized
-      description: The guts of the application.
-      name: API
-    - category: Uncategorized
-      description: >-
-        This is the service responsible for serving images, audio, and video. It
-        is reliant on our CDN.
-      name: Media Proxy
+	  - description: ''
+      category: Webserver
+      name: Startseite
+    - description: ''
+      category: Webserver
+      name: Blog
+    - description: Unter dl.mvbuddies.de ist es möglich Videos/Musik herunterzuladen
+      category: Webserver
+      name: MV Buddies Downloader
+    - description: Unter p2p.mvbuddies.de ist es möglich per Peer to Peer Verbindung Daten zu übertragen
+      category: Webserver
+      name: P2P FilePizza
+    - description: ''
+      category: Webserver
+      name: MV Buddies Git
+    - description: 'Unter pad.mvbuddies.de ist es möglich gemeinsam via Pads zu arbeiten'
+      category: Webserver
+      name: MV Buddies Pad
+    - description: ''
+      category: Webserver
+      name: ShareX
+    - description: Eine Sammlung über Schulinhalte
+      category: Webserver
+      name: Schulsammlung
+    - description: 'Inhalte im Bereich der schulischen Mathematik, Physik & Chemie'
+      category: Webserver
+      name: Der Streber Blog
+    - description: selbstgehosteter Gmod Server für die MV Buddies Community
+      category: Gameserver
+      name: Garrys Mod TTT Server
+    - description: ''
+      category: DiscordBot
+      name: MV Buddies Bot
+    - description: ''
+      category: DiscordBot
+      name: SupportBot Bot
+    - description: ''
+      category: DiscordBot
+      name: GameRoles Bot
+    - description: ''
+      category: DiscordBot
+      name: TTT Bot
   useLargeHeaderDesign: false
   useLogo: false
 theme: cstate
