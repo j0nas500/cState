@@ -5,7 +5,7 @@ languageCode: de
 baseURL: 'https://status.mvbuddies.de'
 params:
   alwaysKeepBrandColor: true
-  brand: '#0a0c0f'
+  brand: '#ffffff'
   categories:
     - closed: true
       description: The main servers are located here.
