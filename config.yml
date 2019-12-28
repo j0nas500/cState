@@ -28,7 +28,7 @@ params:
   ok: '#008000'
   shortDateFormat: '2. Jan — 15:04'
   systems:
-	  - description: ''
+    - description: ''
       category: Webserver
       name: Startseite
     - description: ''
