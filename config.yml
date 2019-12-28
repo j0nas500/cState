@@ -1,5 +1,6 @@
 title: MV Buddies Status
 buildFuture: true
+autoRefresh: true
 defaultContentLanguage: de
 languageCode: de
 baseURL: 'https://status.mvbuddies.de'
