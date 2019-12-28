@@ -4,7 +4,7 @@ defaultContentLanguage: de
 languageCode: de
 baseURL: 'https://status.mvbuddies.de'
 params:
-  alwaysKeepBrandColor: false
+  alwaysKeepBrandColor: true
   brand: '#ffffff'
   categories:
     - description: The websites are located here.
