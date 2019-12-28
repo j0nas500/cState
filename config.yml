@@ -8,8 +8,8 @@ params:
   brand: '#0a0c0f'
   categories:
     - description: The websites are located here.
-      name: Webservers
-    - name: Gameservers
+      name: Webserver
+    - name: Gameserver
     - name: DiscordBot
       closed: true
   customTabs: []
