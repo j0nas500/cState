@@ -1,12 +1,11 @@
 title: MV Buddies Status
 buildFuture: true
-autoRefresh: true
 defaultContentLanguage: de
 languageCode: de
 baseURL: 'https://status.mvbuddies.de'
 params:
   alwaysKeepBrandColor: true
-  brand: '#0a0c0f'
+  brand: '#ffffff'
   categories:
     - description: The websites are located here.
       name: Webserver
