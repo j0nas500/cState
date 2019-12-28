@@ -10,8 +10,8 @@ params:
     - description: The websites are located here.
       name: Webserver
     - name: Gameserver
-    - name: DiscordBot
-      closed: true
+    - closed: true
+      name: DiscordBot
   customTabs: []
   dateFormat: '2. January 2006 15:04'
   description: >-
@@ -21,54 +21,56 @@ params:
   disrupted: '#cc4400'
   down: '#e60000'
   googleAnalytics: UA-00000000-1
-  incidentHistoryFormat: yearly
+  incidentHistoryFormat: none
   incidentPostsPerPage: 10
   logo: /logo.png
   notice: '#24478f'
   ok: '#008000'
   shortDateFormat: '2. Jan — 15:04'
   systems:
-    - description: ''
-      category: Webserver
+    - category: Webserver
+      description: ''
       name: Startseite
-    - description: ''
-      category: Webserver
+    - category: Webserver
+      description: ''
       name: Blog
-    - description: Unter dl.mvbuddies.de ist es möglich Videos/Musik herunterzuladen
-      category: Webserver
+    - category: Webserver
+      description: Unter dl.mvbuddies.de ist es möglich Videos/Musik herunterzuladen
       name: MV Buddies Downloader
-    - description: Unter p2p.mvbuddies.de ist es möglich per Peer to Peer Verbindung Daten zu übertragen
-      category: Webserver
+    - category: Webserver
+      description: >-
+        Unter p2p.mvbuddies.de ist es möglich per Peer to Peer Verbindung Daten
+        zu übertragen
       name: P2P FilePizza
-    - description: ''
-      category: Webserver
+    - category: Webserver
+      description: ''
       name: MV Buddies Git
-    - description: 'Unter pad.mvbuddies.de ist es möglich gemeinsam via Pads zu arbeiten'
-      category: Webserver
+    - category: Webserver
+      description: Unter pad.mvbuddies.de ist es möglich gemeinsam via Pads zu arbeiten
       name: MV Buddies Pad
-    - description: ''
-      category: Webserver
+    - category: Webserver
+      description: ''
       name: ShareX
-    - description: Eine Sammlung über Schulinhalte
-      category: Webserver
+    - category: Webserver
+      description: Eine Sammlung über Schulinhalte
       name: Schulsammlung
-    - description: 'Inhalte im Bereich der schulischen Mathematik, Physik & Chemie'
-      category: Webserver
+    - category: Webserver
+      description: 'Inhalte im Bereich der schulischen Mathematik, Physik & Chemie'
       name: Der Streber Blog
-    - description: selbstgehosteter Gmod Server für die MV Buddies Community
-      category: Gameserver
+    - category: Gameserver
+      description: selbstgehosteter Gmod Server für die MV Buddies Community
       name: Garrys Mod TTT Server
-    - description: ''
-      category: DiscordBot
+    - category: DiscordBot
+      description: ''
       name: MV Buddies Bot
-    - description: ''
-      category: DiscordBot
+    - category: DiscordBot
+      description: ''
       name: SupportBot Bot
-    - description: ''
-      category: DiscordBot
+    - category: DiscordBot
+      description: ''
       name: GameRoles Bot
-    - description: ''
-      category: DiscordBot
+    - category: DiscordBot
+      description: ''
       name: TTT Bot
   useLargeHeaderDesign: false
   useLogo: false
