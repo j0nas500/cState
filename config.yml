@@ -7,11 +7,11 @@ params:
   alwaysKeepBrandColor: true
   brand: '#0a0c0f'
   categories:
-    - closed: true
-      description: The main servers are located here.
-      name: North Coast
-    - name: East Coast
-    - name: Uncategorized
+    - description: The websites are located here.
+      name: Webservers
+    - name: Gameservers
+    - name: DiscordBot
+      closed: true
   customTabs: []
   dateFormat: '2. January 2006 15:04'
   description: >-
