@@ -1,6 +1,6 @@
 ---
 section: issue
-title: WARTUNG - Webseiten werden umgezogen
+title: WARTUNG - Webseiten wurden umgezogen
 date: 2019-12-30T06:41:14.159Z
 resolved: true
 informational: false
