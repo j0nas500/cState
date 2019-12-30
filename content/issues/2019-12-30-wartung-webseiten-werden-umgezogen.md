@@ -4,7 +4,7 @@ title: WARTUNG - Webseiten werden umgezogen
 date: 2019-12-30T06:41:14.159Z
 resolved: false
 informational: true
-resolvedWhen: 2019-12-30T08:41:14.254Z
+resolvedWhen: ''
 affected:
   - Startseite
   - Blog
