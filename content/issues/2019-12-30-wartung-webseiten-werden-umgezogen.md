@@ -17,4 +17,6 @@ affected:
   - Der Streber Blog
 severity: disrupted
 ---
+*Update 7:55 - DNS Enträge wurden angepasst, das der Umzug der Homepage auf Github-Page erfolgreich war. Als nächstes wird der Blog umgezogen*\
+\
 *Wartung* - Aktuell werden einige Webseiten auf GitHub-Pages umgezogen, dies kann zu kurzzeitigen nicht Erreichbarkeit einiger Webseiten führen.
