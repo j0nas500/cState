@@ -1,17 +1,12 @@
 ---
 section: issue
-title: Konfiguration OpenVPN + PiHole
-date: 2019-12-30T09:33:19.930Z
-resolved: true
-informational: false
-resolvedWhen: 2019-12-30T10:42:19.987Z
+title: Test
+date: 2019-12-30T10:45:19.930Z
+resolved: false
+informational: true
+resolvedWhen: 2019-12-30T10:47:19.987Z
 affected:
-  - MV Buddies Downloader
-  - P2P FilePizza
   - MV Buddies Git
-  - MV Buddies Pad
-  - ShareX
-  - Der Streber Blog
-severity: down
+severity: notice
 ---
-*Down* - Für die Einrichtung werden die Webseiten down sein.
+Test
