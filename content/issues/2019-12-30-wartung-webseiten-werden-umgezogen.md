@@ -3,7 +3,7 @@ section: issue
 title: WARTUNG - Webseiten werden umgezogen
 date: 2019-12-30T06:41:14.159Z
 resolved: true
-informational: true
+informational: false
 resolvedWhen: 2019-12-30T08:22:00.000Z
 affected:
   - Startseite
