@@ -15,7 +15,7 @@ affected:
   - ShareX
   - Schulsammlung
   - Der Streber Blog
-severity: disrupted
+severity: notice
 ---
 *Update 9:22* - DNS Eintrag für die Schulsammlung angepasst. Der Umzug war erfolgreich. Damit ist der erste Umzug abgeschlossen. Ein zweiter folgt die Tage.
 
