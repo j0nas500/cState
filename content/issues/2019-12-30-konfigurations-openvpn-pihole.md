@@ -1,6 +1,6 @@
 ---
 section: issue
-title: Konfigurations OpenVPN + PiHole
+title: Konfiguration OpenVPN + PiHole
 date: 2019-12-30T09:33:19.930Z
 resolved: false
 informational: false
