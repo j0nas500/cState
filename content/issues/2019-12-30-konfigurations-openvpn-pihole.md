@@ -2,9 +2,9 @@
 section: issue
 title: Konfiguration OpenVPN + PiHole
 date: 2019-12-30T09:33:19.930Z
-resolved: false
+resolved: true
 informational: false
-resolvedWhen: 2019-12-30T09:33:19.987Z
+resolvedWhen: 2019-12-30T10:42:19.987Z
 affected:
   - MV Buddies Downloader
   - P2P FilePizza
