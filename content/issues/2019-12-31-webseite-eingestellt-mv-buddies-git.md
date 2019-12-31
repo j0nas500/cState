@@ -2,9 +2,9 @@
 section: issue
 title: WEBSEITE EINGESTELLT - MV Buddies Git
 date: 2019-12-31T02:02:42.069Z
-resolved: false
+resolved: true
 informational: true
-resolvedWhen: 2019-12-31T02:02:42.132Z
+resolvedWhen: 2019-12-31T02:12:42.132Z
 affected:
   - MV Buddies Git
 severity: notice
