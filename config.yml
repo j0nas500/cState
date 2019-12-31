@@ -43,9 +43,6 @@ params:
         zu übertragen
       name: P2P FilePizza
     - category: Webserver
-      description: ''
-      name: MV Buddies Git
-    - category: Webserver
       description: Unter pad.mvbuddies.de ist es möglich gemeinsam via Pads zu arbeiten
       name: MV Buddies Pad
     - category: Webserver
