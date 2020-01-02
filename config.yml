@@ -57,6 +57,9 @@ params:
     - category: Gameserver
       description: selbstgehosteter Gmod Server für die MV Buddies Community
       name: Garrys Mod TTT Server
+    - category: Gameserver
+      description: selbstgehosteter CSGO Server für die MV Buddies Community
+      name: 'CS:GO Server'
     - category: DiscordBot
       description: ''
       name: MV Buddies Bot
