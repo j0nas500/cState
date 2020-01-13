@@ -9,4 +9,4 @@ affected:
   - 'CS:GO Server'
 severity: down
 ---
-Offline - Der CS:GO Server scheint Offline zu sein. Aufgrund der niedrigen Priorität wird das Problem erst in den nächsten Tagen untersucht.
+*Offline* - Der CS:GO Server scheint Offline zu sein. Aufgrund der niedrigen Priorität wird das Problem erst in den nächsten Tagen untersucht.
