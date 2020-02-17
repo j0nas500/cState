@@ -7,7 +7,7 @@ informational: true
 resolvedWhen: 2020-01-13T22:24:37.888Z
 affected:
   - 'CS:GO Server'
-severity: down
+severity: notice
 ---
 *Wartung* - Der CS_GO Server wird auf die aktuellste Version aktualisiert.
 
