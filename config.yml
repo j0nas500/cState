@@ -47,7 +47,10 @@ params:
       name: MV Buddies Pad
     - category: Webserver
       description: ''
-      name: ShareX
+      name: Sharex
+    - category: Webserver
+      description: 'irc.mvbuddies.de'
+      name: IRC
     - category: Webserver
       description: Eine Sammlung über Schulinhalte
       name: Schulsammlung
