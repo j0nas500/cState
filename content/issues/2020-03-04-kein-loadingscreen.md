@@ -9,4 +9,4 @@ affected:
   - Garrys Mod TTT Server
 severity: notice
 ---
-Uns ist bekannt, dass es beim Laden, des Gmod Servers, kein Loading Screen angezeigt wird. Dies wird heute Nachmittag gefixt.
+Uns ist bekannt, dass es beim Laden des Gmod Servers kein Loading Screen angezeigt wird. Dies wird heute Nachmittag gefixt.
