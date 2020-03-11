@@ -9,6 +9,9 @@ params:
   categories:
     - description: The websites are located here.
       name: Webserver
+      closed: true
+    - name: Schule
+      description: Schulprojekte
     - name: Gameserver
     - closed: true
       name: DiscordBot
@@ -51,10 +54,16 @@ params:
     - category: Webserver
       description: 'irc.mvbuddies.de'
       name: IRC
-    - category: Webserver
+    - category: Schule
+      description: Punktzahlrechner für 11. & 12. Klasse unter rcl.mvbuddies.de
+      name: Punktzahlrechner
+    - category: Schule
+      description: Eine minimalistische Version des Vertretungsplan unter vp.mvbuddies.de
+      name: Vertretungsplan
+    - category: Schule
       description: Eine Sammlung über Schulinhalte
       name: Schulsammlung
-    - category: Webserver
+    - category: Schule
       description: 'Inhalte im Bereich der schulischen Mathematik, Physik & Chemie'
       name: Der Streber Blog
     - category: Gameserver
