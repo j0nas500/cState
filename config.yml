@@ -9,7 +9,6 @@ params:
   categories:
     - description: The websites are located here.
       name: Webserver
-      closed: true
     - name: Schule
       description: Schulprojekte
     - closed: true
