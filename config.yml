@@ -12,7 +12,6 @@ params:
       closed: true
     - name: Schule
       description: Schulprojekte
-    - name: Gameserver
     - closed: true
       name: DiscordBot
   customTabs: []
@@ -66,12 +65,6 @@ params:
     - category: Schule
       description: 'Inhalte im Bereich der schulischen Mathematik, Physik & Chemie'
       name: Der Streber Blog
-    - category: Gameserver
-      description: selbstgehosteter Gmod Server für die MV Buddies Community
-      name: Garrys Mod TTT Server
-    - category: Gameserver
-      description: selbstgehosteter CSGO Server für die MV Buddies Community
-      name: 'CS:GO Server'
     - category: DiscordBot
       description: ''
       name: MV Buddies Bot
