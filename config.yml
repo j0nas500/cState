@@ -14,14 +14,12 @@ params:
       closed: true
     - name: Netzwerk Server
       closed: true
-    - description: The websites are located here.
+    - description: Some projects are located here.
       closed: true
-      name: Webserver
-    - name: Schule
+      name: VPS
+    - description: Some websites are located here.
       closed: true
-      description: Schulprojekte
-    - closed: true
-      name: DiscordBot
+      name: extern
   customTabs: []
   dateFormat: '2. January 2006 15:04'
   description: >-
@@ -61,40 +59,40 @@ params:
     - category: Netzwerk Server
       description: ''
       name: Wireguard
-    - category: Webserver
+    - category: extern
       description: ''
       name: Startseite
-    - category: Webserver
+    - category: extern
       description: ''
       name: Blog
-    - category: Webserver
+    - category: VPS
       name: MV Buddies Downloader
       description: Unter dl.mvbuddies.de ist es möglich Videos/Musik herunterzuladen
-    - category: Webserver
+    - category: VPS
       description: ''
       name: Sharex
-    - category: Schule
+    - category: extern
       description: Punktzahlrechner für 11. & 12. Klasse unter rcl.mvbuddies.de
       name: Punktzahlrechner
-    - category: Schule
+    - category: VPS
       description: Eine minimalistische Version des Vertretungsplan unter vp.mvbuddies.de
       name: Vertretungsplan
-    - category: Schule
+    - category: extern
       description: Eine Sammlung über Schulinhalte
       name: Schulsammlung
-    - category: Schule
+    - category: extern
       description: 'Inhalte im Bereich der schulischen Mathematik, Physik & Chemie'
       name: Der Streber Blog
-    - category: DiscordBot
+    - category: VPS
       description: ''
       name: MV Buddies Bot
-    - category: DiscordBot
+    - category: VPS
       description: ''
       name: SupportBot Bot
-    - category: DiscordBot
+    - category: VPS
       description: ''
       name: GameRoles Bot
-    - category: DiscordBot
+    - category: VPS
       description: ''
       name: TTT Bot
   useLargeHeaderDesign: false
