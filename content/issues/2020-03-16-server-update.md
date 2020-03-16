@@ -8,6 +8,8 @@ resolvedWhen: 2020-03-14T12:54:22.146Z
 affected:
   - P2P FilePizza
   - MV Buddies Pad
+  - Wireguard
+  - Pi-hole
 severity: down
 ---
 *Update 13:54* - Update abgeschlossenen
