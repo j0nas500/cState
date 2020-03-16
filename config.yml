@@ -7,10 +7,13 @@ params:
   alwaysKeepBrandColor: true
   brand: '#6679a4'
   categories:
+    - name: Server
     #- name: Adrian Server
     #- name: Jonas Server
     - name: Netzwerk Server
-    - name: Ubuntu Server
+      closed: true
+    - name: Web- & Mailserver
+      closed: true
     - description: The websites are located here.
       closed: true
       name: Webserver
@@ -35,7 +38,15 @@ params:
   ok: '#008000'
   shortDateFormat: '2. Jan — 15:04'
   systems:
-    - category: Ubuntu Server
+    - category: Server
+      name: Web- & Mailserver
+    - category: Server
+      name: Netzwerk Server
+    - category: Adrian Server
+      name: Web- & Mailserver
+    - category: Server
+      name: Jonas Server
+    - category: Web- & Mailserver
       description: Unter p2p.mvbuddies.de ist es möglich per Peer to Peer Verbindung Daten zu übertragen
       name: P2P FilePizza
     - category: Ubuntu Server
