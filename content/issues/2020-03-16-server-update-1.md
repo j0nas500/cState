@@ -10,6 +10,10 @@ affected:
   - Wireguard
   - P2P FilePizza
   - MV Buddies Pad
+  - Web- & Mailserver
+  - Netzwerk Server
+  - Jonas Server
+  - Adrian Server
 severity: down
 ---
 *Wartung 15:21* - Server wird aktualisiert
