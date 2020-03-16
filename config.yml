@@ -7,13 +7,15 @@ params:
   alwaysKeepBrandColor: true
   brand: '#6679a4'
   categories:
-    - name: Adrian Server
-    - name: Jonas Server
+    #- name: Adrian Server
+    #- name: Jonas Server
     - name: Netzwerk Server
     - name: Ubuntu Server
     - description: The websites are located here.
+      closed: true
       name: Webserver
     - name: Schule
+      closed: true
       description: Schulprojekte
     - closed: true
       name: DiscordBot
