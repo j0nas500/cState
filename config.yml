@@ -63,6 +63,9 @@ params:
       name: Wireguard
     - category: Webserver
       description: ''
+      name: Startseite
+    - category: Webserver
+      description: ''
       name: Blog
     - category: Webserver
       name: MV Buddies Downloader
