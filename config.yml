@@ -49,7 +49,7 @@ params:
     - category: Web- & Mailserver
       description: Unter p2p.mvbuddies.de ist es möglich per Peer to Peer Verbindung Daten zu übertragen
       name: P2P FilePizza
-    - category: Ubuntu Server
+    - category: Web- & Mailserver
       description: Unter pad.mvbuddies.de ist es möglich gemeinsam via Pads zu arbeiten
       name: MV Buddies Pad
     - category: Pi Server
