@@ -1,6 +1,6 @@
 ---
 section: issue
-title: Server Update
+title: Firmware Update
 date: 2020-03-16T12:35:22.122Z
 resolved: true
 informational: false
