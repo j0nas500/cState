@@ -10,9 +10,9 @@ params:
     - name: Server
     #- name: Adrian Server
     #- name: Jonas Server
-    - name: Netzwerk Server
-      closed: true
     - name: Web- & Mailserver
+      closed: true
+    - name: Netzwerk Server
       closed: true
     - description: The websites are located here.
       closed: true
