@@ -42,8 +42,10 @@ params:
       name: Web- & Mailserver
     - category: Server
       name: Netzwerk Server
-    - category: Adrian Server
+    - category: Server
       name: Web- & Mailserver
+    - category: Server
+      name: Adrian Server
     - category: Server
       name: Jonas Server
     - category: Web- & Mailserver
