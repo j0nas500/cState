@@ -7,6 +7,10 @@ params:
   alwaysKeepBrandColor: true
   brand: '#6679a4'
   categories:
+    - name: Adrian Server
+    - name: Jonas Server
+    - name: Netzwerk Server
+    - name: Ubuntu Server
     - description: The websites are located here.
       name: Webserver
     - name: Schule
@@ -29,29 +33,30 @@ params:
   ok: '#008000'
   shortDateFormat: '2. Jan — 15:04'
   systems:
-    - category: Webserver
+    - category: Ubuntu Server
+      description: Unter p2p.mvbuddies.de ist es möglich per Peer to Peer Verbindung Daten zu übertragen
+      name: P2P FilePizza
+    - category: Ubuntu Server
+      description: Unter pad.mvbuddies.de ist es möglich gemeinsam via Pads zu arbeiten
+      name: MV Buddies Pad
+    - category: Pi Server
+      description: Unter pad.mvbuddies.de ist es möglich gemeinsam via Pads zu arbeiten
+      name: MV Buddies Pad
+    - category: Netzwerk Server
       description: ''
-      name: Startseite
+      name: Pi-hole
+    - category: Netzwerk Server
+      description: ''
+      name: Wireguard
     - category: Webserver
       description: ''
       name: Blog
     - category: Webserver
       description: Unter dl.mvbuddies.de ist es möglich Videos/Musik herunterzuladen
+    - category: Webserver
       name: MV Buddies Downloader
-    - category: Webserver
-      description: >-
-        Unter p2p.mvbuddies.de ist es möglich per Peer to Peer Verbindung Daten
-        zu übertragen
-      name: P2P FilePizza
-    - category: Webserver
-      description: Unter pad.mvbuddies.de ist es möglich gemeinsam via Pads zu arbeiten
-      name: MV Buddies Pad
-    - category: Webserver
       description: ''
       name: Sharex
-    - category: Webserver
-      description: 'irc.mvbuddies.de'
-      name: IRC
     - category: Schule
       description: Punktzahlrechner für 11. & 12. Klasse unter rcl.mvbuddies.de
       name: Punktzahlrechner
