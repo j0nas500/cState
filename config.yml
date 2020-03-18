@@ -50,6 +50,18 @@ params:
     - category: Web- & Mailserver
       description: Unter pad.mvbuddies.de ist es möglich gemeinsam via Pads zu arbeiten
       name: MV Buddies Pad
+    - category: Web- & Mailserver
+      description: Unter pad.mvbuddies.de ist es möglich gemeinsam via Pads zu arbeiten
+      name: Jonas URL Shortener
+    - category: Web- & Mailserver
+      description: Unter pad.mvbuddies.de ist es möglich gemeinsam via Pads zu arbeiten
+      name: MV Buddies Files
+    - category: Web- & Mailserver
+      description: Unter pad.mvbuddies.de ist es möglich gemeinsam via Pads zu arbeiten
+      name: MV Buddies Docs
+    - category: Web- & Mailserver
+      description: Unter pad.mvbuddies.de ist es möglich gemeinsam via Pads zu arbeiten
+      name: Webmin
     - category: Pi Server
       description: Unter pad.mvbuddies.de ist es möglich gemeinsam via Pads zu arbeiten
       name: MV Buddies Pad
