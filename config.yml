@@ -51,16 +51,14 @@ params:
       description: Unter pad.mvbuddies.de ist es möglich gemeinsam via Pads zu arbeiten
       name: MV Buddies Pad
     - category: Web- & Mailserver
-      description: Unter pad.mvbuddies.de ist es möglich gemeinsam via Pads zu arbeiten
+      description: Unter jnkl.de ist es möglich URLs zu kürzen
       name: Jonas URL Shortener
     - category: Web- & Mailserver
-      description: Unter pad.mvbuddies.de ist es möglich gemeinsam via Pads zu arbeiten
+      description: Unter files.mvbuddies.de ist es möglich Dateien zu teilen
       name: MV Buddies Files
     - category: Web- & Mailserver
-      description: Unter pad.mvbuddies.de ist es möglich gemeinsam via Pads zu arbeiten
       name: MV Buddies Docs
     - category: Web- & Mailserver
-      description: Unter pad.mvbuddies.de ist es möglich gemeinsam via Pads zu arbeiten
       name: Webmin
     - category: Pi Server
       description: Unter pad.mvbuddies.de ist es möglich gemeinsam via Pads zu arbeiten
