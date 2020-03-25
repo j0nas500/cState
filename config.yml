@@ -61,6 +61,12 @@ params:
     - category: Web- & Mailserver
       name: MV Buddies Cloud
     - category: Web- & Mailserver
+      name: MV Buddies Downloader
+      description: Unter dl.mvbuddies.de ist es möglich Videos/Musik herunterzuladen
+    - category: Web- & Mailserver
+      description: ''
+      name: Sharex
+    - category: Web- & Mailserver
       name: MV Buddies Docs
     - category: Web- & Mailserver
       name: Webmin
@@ -79,12 +85,6 @@ params:
     - category: extern
       description: ''
       name: Blog
-    - category: VPS
-      name: MV Buddies Downloader
-      description: Unter dl.mvbuddies.de ist es möglich Videos/Musik herunterzuladen
-    - category: VPS
-      description: ''
-      name: Sharex
     - category: extern
       description: Punktzahlrechner für 11. & 12. Klasse unter rcl.mvbuddies.de
       name: Punktzahlrechner
