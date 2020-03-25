@@ -57,6 +57,8 @@ params:
       description: Unter files.mvbuddies.de ist es möglich Dateien zu teilen
       name: MV Buddies Files
     - category: Web- & Mailserver
+      name: MV Buddies Cloud
+    - category: Web- & Mailserver
       name: MV Buddies Docs
     - category: Web- & Mailserver
       name: Webmin
