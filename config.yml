@@ -43,6 +43,8 @@ params:
     - category: Server
       name: Adrian Server
     - category: Server
+      name: Bjarne Server
+    - category: Server
       name: Jonas Server
     - category: Web- & Mailserver
       description: Unter p2p.mvbuddies.de ist es möglich per Peer to Peer Verbindung Daten zu übertragen
