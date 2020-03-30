@@ -24,4 +24,4 @@ affected:
   - Wireguard
 severity: down
 ---
-*Down* - Der Server wurde für Updates und Testzwecken mit einer GPU heruntergefahren
+*Down* - Der Server wird für Updates und Hardware Upgrades sowie Testzwecken mit einer GPU heruntergefahren
