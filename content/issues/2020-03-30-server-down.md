@@ -16,7 +16,8 @@ affected:
   - Jonas URL Shortener
   - MV Buddies Files
   - MV Buddies Cloud
-  - MV Buddies Downloader. Sharex
+  - MV Buddies Downloader
+  - Sharex
   - MV Buddies Docs
   - Webmin
   - Pi-hole
