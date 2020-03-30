@@ -2,9 +2,9 @@
 section: issue
 title: Server Down
 date: 2020-03-30T10:50:53.101Z
-resolved: false
+resolved: true
 informational: false
-resolvedWhen: 2020-03-30T11:27:53.166Z
+resolvedWhen: 2020-03-30T15:31:53.166Z
 affected:
   - Web- & Mailserver
   - Netzwerk Server
@@ -24,4 +24,6 @@ affected:
   - Wireguard
 severity: down
 ---
+*Update* - Server läuft wieder
+
 *Down* - Der Server wird für Updates und Hardware Upgrades sowie Testzwecken mit einer GPU heruntergefahren
