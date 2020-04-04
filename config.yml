@@ -9,9 +9,9 @@ params:
   categories:
     - name: Server
     #- name: Adrian Server
-    #- name: Jonas Server
     - name: Web- & Mailserver
       closed: true
+    - name: Jonas Server
     - name: Netzwerk Server
       closed: true
     - description: Some projects are located here.
@@ -46,6 +46,8 @@ params:
       name: Bjarne Server
     - category: Server
       name: Jonas Server
+    - category: Jonas Server
+      name: Minecraft
     - category: Web- & Mailserver
       description: Unter p2p.mvbuddies.de ist es möglich per Peer to Peer Verbindung Daten zu übertragen
       name: P2P FilePizza
