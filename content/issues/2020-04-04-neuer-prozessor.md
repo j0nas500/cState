@@ -1,10 +1,10 @@
 ---
 section: issue
 title: Neuer Prozessor
-date: 2020-04-04T10:50:53.101Z
+date: 2020-04-04T12:50:53.101Z
 resolved: true
 informational: false
-resolvedWhen: 2020-04-04T11:27:53.166Z
+resolvedWhen: 2020-04-04T13:27:53.166Z
 affected:
   - Web- & Mailserver
   - Netzwerk Server
